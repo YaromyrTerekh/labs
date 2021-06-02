@@ -1,0 +1,27 @@
+.ff{
+   background-color:rgb(166, 161, 180);
+   margin:5px;
+   border: 5px ridge rgb(12, 115, 212);
+   text-align: center;
+   color:rgb(255, 238, 2);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bold;
+   font-style: italic;
+}
+.fd{
+   margin:3px;
+   border: 1px ridge rgb(0, 0, 0);
+}
+
+h1{
+   background-color:rgb(255, 214, 32);
+   color:white;
+   padding:20px;
+   text-align: center;
+  }
+  .myform input{
+   margin:5px;
+  }
+  table{
+   margin:5px;
+  }

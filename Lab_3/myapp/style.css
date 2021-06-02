@@ -1,0 +1,25 @@
+
+ h1 {
+   color: #774936; 
+   
+ }
+table {
+    border-collapse: collapse;
+    border: 1px solid #9d6b53;
+    color:#774936;
+    background: #f8d1bd;
+ }
+ th {
+    border: 1px solid #9d6b53;
+    background: #eeb697;
+  border-top: 2px solid #b07d62;
+ }
+ td {
+    border: 1px solid #9d6b53;
+ }
+ th, td {
+    border: 1px solid #9d6b53;
+ }
+ table {
+    border: 2px solid #9d6b53;
+ }
